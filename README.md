@@ -1,7 +1,7 @@
 # Portfolio-website
 # 🌐 Personal Portfolio Website
 
-This is my personal **Portfolio Website** created using **HTML & CSS**.  
+This is my personal **Portfolio Website**. 
 It represents my professional identity, skills, projects, certifications, and contact details in a clean and organized way.
 
 ---
