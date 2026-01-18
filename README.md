@@ -29,7 +29,6 @@ The main objective of this project is:
 - **HTML** – Structure of the website  
 - **CSS** – Styling and layout  
 
-No JavaScript or backend is used. This is a fully static website.
 
 
 ---
